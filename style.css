@@ -1,0 +1,20 @@
+body{background-color: rgb(185, 243, 243);
+}  
+h1{color: rgb(1, 174, 243);text-align: center;
+}
+p{font-size: 20px; text-align: justify;
+}
+ul li{font-size: 30px;
+   margin-bottom: 30px;
+}
+.imgcamp{border-radius: 15%;
+}
+table{
+   font-style:unset;
+  font-size: 30px;
+  background-color: aquamarine;
+}
+.site:hover{
+   color: red;
+   background-color:aquamarine 
+}
